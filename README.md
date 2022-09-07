@@ -6,7 +6,7 @@ I'm a student from ITERA. i have talent and interest in technology, especially i
  <p>
 <a href="https://github.co
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Toolop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FARRAS-DARKUNO&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Toolop&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
