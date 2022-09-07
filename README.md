@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Farras.
+### Hi! 👋 I'm Rafi.
 
 I'm a student from ITERA. i have talent and interest in technology, especially in the field of mobile application development and web development. i have a high sense of responsibility and enthusiasm for learning.
 
@@ -12,7 +12,7 @@ I'm a student from ITERA. i have talent and interest in technology, especially i
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/abdurrachman-farras-8a8a08222/">LinkedIn</a>
-- abdurrachman.farras2@gmail.com
+- Toolop2312@gmail.com
 m/FARRAS-DARKUNO">be>
   
 ### Github Statistic
