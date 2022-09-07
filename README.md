@@ -11,9 +11,8 @@ I'm a student from ITERA. i have talent and interest in technology, especially i
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/abdurrachman-farras-8a8a08222/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/rafi-arya-nugraha-8464391b2/">LinkedIn</a>
 - Toolop2312@gmail.com
-m/FARRAS-DARKUNO">be>
   
 ### Github Statistic
 <p align="left">
