@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Rafi.
 
-I'm a student from ITERA. i have talent and interest in technology, especially in the field of mobile application development and web development. i have a high sense of responsibility and enthusiasm for learning.
+I'm a student from ITERA. i have talent and interest in technology, especially in the field of backend development and web development. i have a high sense of responsibility and enthusiasm for learning.
 
 ### Tech Stack
  <p>
